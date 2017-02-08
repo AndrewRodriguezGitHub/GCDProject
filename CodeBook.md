@@ -5,7 +5,7 @@
 
 The original "Human Activity Recognition Using Smartphones Dataset" is the base for transformations resulting in `tidy_data_set.txt`.
 
-More information on the raw data can be found at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+More information on the raw data can be found at: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 A tidy data set, named `tidy_data_set.txt`, results by running R script `run_analysis.R` that does the following:
 
